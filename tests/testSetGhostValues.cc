@@ -9,6 +9,7 @@
 #include "GridFuncVector.h"
 #include "MGmol_MPI.h"
 #include "PEenv.h"
+#include <array>
 
 #include "catch.hpp"
 
